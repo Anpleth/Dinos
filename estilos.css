@@ -1,0 +1,139 @@
+
+body{
+    background-image: url(https://i0.wp.com/ecoosfera.com/wp-content/uploads/2022/11/CPUOZY6I3RGOXHNGVTNTXY3RAQ.jpg);
+    opacity: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    position: 
+}
+.d1{font: oblique bold 130% Verdana;
+  text-align: center;
+  height: ;
+  margin: ;
+      animation: animacionTexto 10s infinite;
+    }
+    
+    @keyframes animacionTexto {
+      10% {
+        transform: scale(1);
+        color: rgb(31, 2, 2);
+      }
+      10% {
+        transform: scale(0.99);
+        color: rgb(32, 32, 3);
+      }
+      12% {
+        transform: scale(1);
+        color: rgb(54, 6, 6);
+      }
+    }
+    .d2  {animation: animacionTexto 6s infinite;}
+    .d2{font: oblique bold 200% Verdana;
+      text-align: center;
+      height: ;
+      margin: ;}
+
+      .dino :hover{
+        transform: scale(1.9) ;
+      }
+      .dino {
+        transition: transform 0.3s ease; /* Animación suave al aplicar el zoom */
+      }
+
+  
+  header {
+    
+    color: #490c0c;
+    padding: 10px;
+    text-align: center;
+    opacity: ;
+    background:linear-gradient (rgba (109, 29, 9, 100)); 
+    margin: 20px;
+    justify-content: space-between;
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=2925&resolucion=2560x1440);
+    background-repeat: no-repeat;
+    ;
+  }
+  
+  
+  nav {
+    
+    border: 10px #e00000;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-style:double;
+    border-width: 4px;
+    backdrop-filter: blur(20px); 
+    border-radius: 10px 400px 20px 400px
+    ;text-align: ;
+    background-image: url(https://static.nationalgeographic.es/files/styles/image_3200/public/01-asteroid-nationalgeographic_1570873.jpg?w=1600&h=900); 
+    background-color: rgba(170, 84, 18, 0.4);
+    
+  }
+  
+  nav a {
+    color: #c4a89b;
+    font-size: px;
+    font-weight: bold;
+    text-decoration: none;
+    
+  }
+  
+  nav a:hover {
+    color: #192e04;
+  }
+  
+  
+    main{
+      background-image: url(https://fondosmil.com/fondo/31240.jpg);
+      
+      
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      position: sticky;
+      text-decoration-color: rgb(107, 70, 21);
+      margin: 10px;
+      background-color:  rgba(253, 253, 253, 0.8);
+      backdrop-filter: blur(10px);
+      opacity: ;
+      top:
+      ;width: ;
+    }
+  
+  .text{
+    color: rgb(54, 35, 5);
+    font: oblique bold 140% cursive;
+    margin: 30px;
+    
+    
+    
+  }
+  
+  footer {
+    background-color: rgba(35, 39, 22, 0.4);
+    margin: 1px;
+    color: #ebebeb;
+    padding: 1px;
+    text-align: center;
+  }
+  @media (min-width:400px)
+  body{
+    
+  }
+  .dino {
+    transition: transform 0.3s ease; /* Animación suave al aplicar el zoom */
+    box-shadow: 0px 0px 15px 15px ;
+    -webkit-box-shadow: 0px 0px 15px 15px ;
+  }
+  
+  .dino:hover {
+    transform: scale(1.2); 
+  }
+
+  
+
+
+
+

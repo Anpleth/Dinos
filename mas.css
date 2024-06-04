@@ -1,0 +1,113 @@
+body{
+    background-image: url(https://www.nationalgeographic.com.es/medio/2023/01/24/tiranosaurio-portada_0705ac0f_230124194318_800x800.webp);
+    opacity: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    position: 
+}
+.d1{font: oblique bold 130% Verdana;
+    text-align: center;
+    height: ;
+    margin: ;
+
+    animation: animacionTexto 4s infinite;
+    }
+    
+    @keyframes animacionTexto {
+    10% {
+        transform: scale(1);
+        color: rgb(58, 20, 20);
+    }
+    10% {
+    transform: scale(0.99);
+    color: rgb(82, 82, 25);
+    }
+    12% {
+        transform: scale(1);
+        color: rgb(83, 26, 26);
+}
+    }
+    .d2  {animation: animacionTexto 6s infinite;}
+    .d2{font: oblique bold 200% Verdana;
+        text-align: center;
+        height: ;
+        margin: ;}
+
+
+header {
+    
+    color: #490c0c;
+    padding: 10px;
+    text-align: center;
+    opacity: ;
+    background:linear-gradient (rgba (109, 29, 9, 100)); 
+    margin: 20px;
+    justify-content: space-between;
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=2925&resolucion=2560x1440);
+    background-repeat: no-repeat;
+    ;
+    }
+    nav {
+    
+    border: 10px #e00000;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-style:double;
+    border-width: 4px;
+    backdrop-filter: blur(20px); 
+    border-radius: 10px 400px 20px 400px
+    ;text-align: ;
+    background-image: url(https://static.nationalgeographic.es/files/styles/image_3200/public/01-asteroid-nationalgeographic_1570873.jpg?w=1600&h=900); 
+    background-color: rgba(170, 84, 18, 0.4);
+    
+    }
+
+    nav a {
+    color: #c4a89b;
+    font-size: px;
+    font-weight: bold;
+    text-decoration: none;
+    
+    }
+    nav a:hover {
+    color: #213b06;}
+    main{
+    background-image: url(https://fondosmil.com/fondo/31240.jpg);
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: sticky;
+    text-decoration-color: rgb(107, 70, 21);
+    margin: 10px;
+    background-color:  rgba(253, 253, 253, 0.8);
+    backdrop-filter: blur(10px);
+    opacity: ;
+    top:;
+    }
+    .imagen img {
+        display: block;
+        width: 350px;
+        height: 500px;
+    }
+    .imagen2 img {
+        display: block;
+        width: 600px;
+        height: 400px;
+        
+    }
+    .text{
+    color: rgb(54, 35, 5);
+    font: oblique bold 140% cursive;
+    margin: 30px;
+    }
+    footer {
+    background-color: rgba(35, 39, 22, 0.4);
+    margin: 1px;
+    color: #ebebeb;
+    padding: 1px;
+    text-align: center;
+    }
+    
+        
